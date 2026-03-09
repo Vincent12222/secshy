@@ -1,0 +1,31 @@
+# WebDir 独立版默认配置（可按需修改）
+
+DirSelectMethod: GET
+DirRecursion: true
+DirRecursionMode: dir_listing   # dir_listing | html_links
+DirMaxDepth: 2
+DirMaxEnqueue: 5000
+DirExtFilter: js,gif,jpg,png,css
+DirCodeFilter: 400,404,5xx
+DirKeyFilter: ""
+DirLenFilter: ""
+DirFileExt: jsp,php,asp,aspx
+DirTimeDelayStr: "0"
+DirThreadStr: "50"
+CfgWebTimeout: "15000"
+Cfguatxt: Mozilla/5.0 (Windows NT 10.0; Win64; x64) WebDirScanner/1.0
+
+# 随机 UA（GUI 也可覆盖）
+RandomUAEnable: false
+UAFile: ""
+
+# 代理池（GUI 也可覆盖）
+ProxyEnable: false
+ProxyFile: ""
+ProxyTestUrl: ""
+ProxyTimeoutMs: 5000
+ProxyValidateThreads: 20
+
+# 框架/组件识别（GUI 也可覆盖）
+FrameworkDetectEnable: true
+

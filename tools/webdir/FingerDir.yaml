@@ -1,0 +1,30 @@
+Alibaba-Nacos:
+  - "/nacos/"
+  - "/api/nacos/"
+Alibaba-Druid:
+  - "/druid/index.html"
+SpringBoot-Framework:
+  - "/error"
+  - "/actuator"
+Swagger-ui:
+  - "/v2/api-docs"
+  - "/v3/api-docs"
+  - "/swagger-ui.html"
+帆软-FineReport:
+  - "/WebReport/ReportServer"
+XXL-JOB:
+  - "/xxl-job-admin/toLogin"
+GeoServer:
+  - "/geoserver/web/"
+phpMyAdmin:
+  - "/phpmyadmin/"
+  - "/pma/"
+Tomcat-Login:
+  - "/manager/html"
+Jenkins:
+  - "/jenkins/login"
+Zabbix:
+  - "/zabbix"
+Harbor:
+  - "/harbor/"
+

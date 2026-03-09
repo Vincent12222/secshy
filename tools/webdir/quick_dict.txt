@@ -1,0 +1,10 @@
+/
+/admin/
+/login
+/robots.txt
+/.git/config
+/actuator
+/swagger-ui.html
+/v2/api-docs
+/v3/api-docs
+/nacos/
